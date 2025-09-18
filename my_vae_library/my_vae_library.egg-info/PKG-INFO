@@ -1,0 +1,6 @@
+Metadata-Version: 2.4
+Name: my_vae_library
+Version: 0.1
+Requires-Dist: tensorflow>=2.13.0
+Requires-Dist: tensorflow_datasets
+Dynamic: requires-dist

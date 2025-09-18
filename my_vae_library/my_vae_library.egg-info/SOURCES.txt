@@ -1,0 +1,8 @@
+setup.py
+my_vae_library/__init__.py
+my_vae_library/vae.py
+my_vae_library.egg-info/PKG-INFO
+my_vae_library.egg-info/SOURCES.txt
+my_vae_library.egg-info/dependency_links.txt
+my_vae_library.egg-info/requires.txt
+my_vae_library.egg-info/top_level.txt
